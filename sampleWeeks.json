@@ -1,0 +1,264 @@
+[
+	{
+		"evento": "Costo partecipazione",
+		"costo": 10.00
+	},
+	{
+		"evento": "Costo esterno",
+		"costo": 10.00
+	},
+	{
+		"evento": "Elenco settimane",
+		"classe": "1-2 elementare",
+		"settimane": [
+			{
+				"nome": "Prima settimana (+30€)",
+				"valore": "1ª settimana",
+				"durata": {
+					"inizio": "01 luglio 2023",
+					"fine": "05 luglio 2023"
+				},
+				"costo": 30.00
+			},
+			{
+				"nome": "Seconda settimana (+30€)",
+				"valore": "2ª settimana",
+				"durata": {
+					"inizio": "08 luglio 2023",
+					"fine": "12 luglio 2023"
+				},
+				"costo": 30.00
+			},
+			{
+				"nome": "Terza settimana (+30€)",
+				"valore": "3ª settimana",
+				"durata": {
+					"inizio": "15 luglio 2023",
+					"fine": "19 luglio 2023"
+				},
+				"costo": 30.00
+			},
+			{
+				"nome": "Quarta settimana (+30€)",
+				"valore": "4ª settimana",
+				"durata": {
+					"inizio": "21 luglio 2023",
+					"fine": "26 luglio 2023"
+				},
+				"costo": 30.00
+			}
+		]
+	},
+	{
+		"evento": "Elenco settimane",
+		"classe": "3-4-5 elementare",
+		"settimane": [
+			{
+				"nome": "Prima settimana (+30€)",
+				"valore": "1ª settimana",
+				"durata": {
+					"inizio": "01 luglio 2023",
+					"fine": "05 luglio 2023"
+				},
+				"costo": 30.00
+			},
+			{
+				"nome": "Seconda settimana (+30€)",
+				"valore": "2ª settimana",
+				"durata": {
+					"inizio": "08 luglio 2023",
+					"fine": "12 luglio 2023"
+				},
+				"costo": 30.00
+			},
+			{
+				"nome": "Terza settimana (+30€)",
+				"valore": "3ª settimana",
+				"durata": {
+					"inizio": "15 luglio 2023",
+					"fine": "19 luglio 2023"
+				},
+				"costo": 30.00
+			},
+			{
+				"nome": "Quarta settimana (+30€)",
+				"valore": "4ª settimana",
+				"durata": {
+					"inizio": "21 luglio 2023",
+					"fine": "26 luglio 2023"
+				},
+				"costo": 30.00
+			}
+		]
+	},
+	{
+		"evento": "Elenco settimane",
+		"classe": "medie",
+		"settimane": [
+			{
+				"nome": "Prima settimana (+30€)",
+				"valore": "1ª settimana",
+				"durata": {
+					"inizio": "01 luglio 2023",
+					"fine": "05 luglio 2023"
+				},
+				"costo": 30.00
+			},
+			{
+				"nome": "Seconda settimana (+30€)",
+				"valore": "2ª settimana",
+				"durata": {
+					"inizio": "08 luglio 2023",
+					"fine": "12 luglio 2023"
+				},
+				"costo": 30.00
+			},
+			{
+				"nome": "Terza settimana (+30€)",
+				"valore": "3ª settimana",
+				"durata": {
+					"inizio": "15 luglio 2023",
+					"fine": "19 luglio 2023"
+				},
+				"costo": 30.00
+			},
+			{
+				"nome": "Quarta settimana (+30€)",
+				"valore": "4ª settimana",
+				"durata": {
+					"inizio": "21 luglio 2023",
+					"fine": "26 luglio 2023"
+				},
+				"costo": 30.00
+			}
+		]
+	},
+	{
+		"evento": "Elenco settimane",
+		"classe": "animatori",
+		"settimane": [
+			{
+				"nome": "Prima settimana",
+				"valore": "1ª settimana",
+				"durata": {
+					"inizio": "01 luglio 2023",
+					"fine": "05 luglio 2023"
+				}
+			},
+			{
+				"nome": "Seconda settimana",
+				"valore": "2ª settimana",
+				"durata": {
+					"inizio": "08 luglio 2023",
+					"fine": "12 luglio 2023"
+				}
+			},
+			{
+				"nome": "Terza settimana",
+				"valore": "3ª settimana",
+				"durata": {
+					"inizio": "15 luglio 2023",
+					"fine": "19 luglio 2023"
+				}
+			},
+			{
+				"nome": "Quarta settimana",
+				"valore": "4ª settimana",
+				"durata": {
+					"inizio": "21 luglio 2023",
+					"fine": "26 luglio 2023"
+				}
+			}
+		]
+	},
+	{
+		"evento": "Servizio mensa",
+		"info": "(Sarà necessario acquistare i buoni necessari sul portale della Punto Service.<br/>N.B. Il pasto verrà sproporzionato, non saranno quindi più presenti i piatti termosaldati.<br/>Oltre al buono pagato alla cooperativa non ci saranno costi aggiuntivi per il servizio.)",
+		"settimane": [
+			{
+				"costo": 0,
+				"value": "1ª settimana",
+				"info": "Prima settimana"
+			},
+			{
+				"costo": 0,
+				"value": "2ª settimana",
+				"info": "Seconda settimana"
+			},
+			{
+				"costo": 0,
+				"value": "3ª settimana",
+				"info": "Terza settimana"
+			},
+			{
+				"costo": 0,
+				"value": "4ª settimana",
+				"info": "Quarta settimana"
+			}
+		]
+	},
+	{
+		"evento": "Servizio pullmino",
+		"info": "Il servizio necessiterà di un contributo specificato in seguito (variabie in base al numero di adesioni).<br/>Domanda a scopo informativo.",
+		"settimane": [
+			{
+				"costo": 0,
+				"value": "1ª settimana",
+				"info": "Prima settimana"
+			},
+			{
+				"costo": 0,
+				"value": "2ª settimana",
+				"info": "Seconda settimana"
+			},
+			{
+				"costo": 0,
+				"value": "3ª settimana",
+				"info": "Terza settimana"
+			},
+			{
+				"costo": 0,
+				"value": "4ª settimana",
+				"info": "Quarta settimana"
+			}
+		]
+	},
+	{
+		"evento": "Servizio preingresso",
+		"info": "Il servizio avrà luogo a Palazzo Drago dalle ore 8 alle ore 9.<br/>Costo aggiuntivo di 10€ a settimana.",
+		"settimane": [
+			{
+				"costo": 10.00,
+				"value": "1ª settimana",
+				"info": "Prima settimana (+10€)"
+			},
+			{
+				"costo": 10.00,
+				"value": "2ª settimana",
+				"info": "Seconda settimana (+10€)"
+			},
+			{
+				"costo": 10.00,
+				"value": "3ª settimana",
+				"info": "Terza settimana (+10€)"
+			},
+			{
+				"costo": 10.00,
+				"value": "4ª settimana",
+				"info": "Quarta settimana (+10€)"
+			}
+		]
+	},
+	{
+		"evento": "Maglia aggiuntiva",
+		"costo": 5.00
+	},
+	{
+		"evento" : "Sconto secondo figlio",
+		"costo" : 5.00
+	},
+	{
+		"evento" : "Sconto terzo figlio",
+		"costo" : 10.00
+	}
+]
