@@ -12,40 +12,62 @@
 		"classe": "1-2 elementare",
 		"settimane": [
 			{
-				"nome": "Prima settimana (+30€)",
+				"nome": "Prima settimana",
 				"valore": "1ª settimana",
 				"durata": {
-					"inizio": "01 luglio 2023",
-					"fine": "05 luglio 2023"
+					"inizio": "01 luglio 2024",
+					"fine": "05 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
 			},
 			{
-				"nome": "Seconda settimana (+30€)",
+				"nome": "Seconda settimana",
 				"valore": "2ª settimana",
 				"durata": {
-					"inizio": "08 luglio 2023",
-					"fine": "12 luglio 2023"
+					"inizio": "08 luglio 2024",
+					"fine": "12 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
 			},
 			{
-				"nome": "Terza settimana (+30€)",
+				"nome": "Terza settimana",
 				"valore": "3ª settimana",
 				"durata": {
-					"inizio": "15 luglio 2023",
-					"fine": "19 luglio 2023"
+					"inizio": "15 luglio 2024",
+					"fine": "19 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
 			},
 			{
-				"nome": "Quarta settimana (+30€)",
+				"nome": "Quarta settimana",
 				"valore": "4ª settimana",
 				"durata": {
-					"inizio": "21 luglio 2023",
-					"fine": "26 luglio 2023"
+					"inizio": "21 luglio 2024",
+					"fine": "26 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
+			},
+			{
+				"nome": "Zoom Torino",
+				"valore": "Zoom",
+				"durata": {
+					"data": "18 luglio 2024"
+				},
+				"costo": 20.00,
+				"aumentabile": false
+			},
+			{
+				"nome": "Parco avventura",
+				"valore": "Parco avventura",
+				"durata": {
+					"data": "25 luglio 2024"
+				},
+				"costo": 20.00,
+				"aumentabile": false
 			}
 		]
 	},
@@ -54,40 +76,72 @@
 		"classe": "3-4-5 elementare",
 		"settimane": [
 			{
-				"nome": "Prima settimana (+30€)",
+				"nome": "Prima settimana",
 				"valore": "1ª settimana",
 				"durata": {
-					"inizio": "01 luglio 2023",
-					"fine": "05 luglio 2023"
+					"inizio": "01 luglio 2024",
+					"fine": "05 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
 			},
 			{
-				"nome": "Seconda settimana (+30€)",
+				"nome": "Camposcuola a Castello di Pontechianale",
+				"valore": "Campo",
+				"durata": {
+					"inizio": "07 luglio 2024",
+					"fine": "12 luglio 2024"
+				},
+				"costo": 120.00,
+				"aumentabile": true
+			},
+			{
+				"nome": "Seconda settimana",
 				"valore": "2ª settimana",
 				"durata": {
-					"inizio": "08 luglio 2023",
-					"fine": "12 luglio 2023"
+					"inizio": "08 luglio 2024",
+					"fine": "12 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
 			},
 			{
-				"nome": "Terza settimana (+30€)",
+				"nome": "Terza settimana",
 				"valore": "3ª settimana",
 				"durata": {
-					"inizio": "15 luglio 2023",
-					"fine": "19 luglio 2023"
+					"inizio": "15 luglio 2024",
+					"fine": "19 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
 			},
 			{
-				"nome": "Quarta settimana (+30€)",
+				"nome": "Quarta settimana",
 				"valore": "4ª settimana",
 				"durata": {
-					"inizio": "21 luglio 2023",
-					"fine": "26 luglio 2023"
+					"inizio": "21 luglio 2024",
+					"fine": "26 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
+			},
+			{
+				"nome": "Gita al mare",
+				"valore": "Mare",
+				"durata": {
+					"data": "18 luglio 2024"
+				},
+				"costo": 20.00,
+				"aumentabile": false
+			},
+			{
+				"nome": "Parco avventura",
+				"valore": "Parco avventura",
+				"durata": {
+					"data": "25 luglio 2024"
+				},
+				"costo": 20.00,
+				"aumentabile": false
 			}
 		]
 	},
@@ -96,40 +150,81 @@
 		"classe": "medie",
 		"settimane": [
 			{
-				"nome": "Prima settimana (+30€)",
+				"nome": "Prima settimana",
 				"valore": "1ª settimana",
 				"durata": {
-					"inizio": "01 luglio 2023",
-					"fine": "05 luglio 2023"
+					"inizio": "01 luglio 2024",
+					"fine": "05 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
 			},
 			{
-				"nome": "Seconda settimana (+30€)",
+				"nome": "Seconda settimana",
 				"valore": "2ª settimana",
 				"durata": {
-					"inizio": "08 luglio 2023",
-					"fine": "12 luglio 2023"
+					"inizio": "08 luglio 2024",
+					"fine": "12 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
 			},
 			{
-				"nome": "Terza settimana (+30€)",
+				"nome": "Camposcuola a Castello di Pontechianale",
+				"valore": "Campo",
+				"durata": {
+					"inizio": "14 luglio 2024",
+					"fine": "19 luglio 2024"
+				},
+				"costo": 120.00,
+				"aumentabile": true
+			},
+			{
+				"nome": "Terza settimana",
 				"valore": "3ª settimana",
 				"durata": {
-					"inizio": "15 luglio 2023",
-					"fine": "19 luglio 2023"
+					"inizio": "15 luglio 2024",
+					"fine": "19 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
 			},
 			{
-				"nome": "Quarta settimana (+30€)",
+				"nome": "Quarta settimana",
 				"valore": "4ª settimana",
 				"durata": {
-					"inizio": "21 luglio 2023",
-					"fine": "26 luglio 2023"
+					"inizio": "21 luglio 2024",
+					"fine": "26 luglio 2024"
 				},
-				"costo": 30.00
+				"costo": 30.00,
+				"aumentabile": true
+			},
+			{
+				"nome": "Gita al mare",
+				"valore": "Mare",
+				"durata": {
+					"data": "11 luglio 2024"
+				},
+				"costo": 20.00,
+				"aumentabile": false
+			},
+			{
+				"nome": "Gita al mare con 3-4-5 elementare",
+				"valore": "Mare elementari",
+				"durata": {
+					"data": "18 luglio 2024"
+				},
+				"costo": 20.00,
+				"aumentabile": false
+			},
+			{
+				"nome": "Parco avventura",
+				"valore": "Parco avventura",
+				"durata": {
+					"data": "25 luglio 2024"
+				},
+				"costo": 20.00,
+				"aumentabile": false
 			}
 		]
 	},
@@ -138,35 +233,59 @@
 		"classe": "animatori",
 		"settimane": [
 			{
-				"nome": "Prima settimana",
-				"valore": "1ª settimana",
+				"nome": "Grest Villanovetta",
+				"valore": "Grest",
 				"durata": {
-					"inizio": "01 luglio 2023",
-					"fine": "05 luglio 2023"
+					"inizio": "09 giugno 2024",
+					"fine": "29 giugno 2024"
 				}
 			},
 			{
-				"nome": "Seconda settimana",
-				"valore": "2ª settimana",
+				"nome": "Estate Ragazzi - Prima settimana",
+				"valore": "ER 1ª settimana",
 				"durata": {
-					"inizio": "08 luglio 2023",
-					"fine": "12 luglio 2023"
+					"inizio": "01 luglio 2024",
+					"fine": "05 luglio 2024"
 				}
 			},
 			{
-				"nome": "Terza settimana",
-				"valore": "3ª settimana",
+				"nome": "Estate Ragazzi - Seconda settimana",
+				"valore": "ER 2ª settimana",
 				"durata": {
-					"inizio": "15 luglio 2023",
-					"fine": "19 luglio 2023"
+					"inizio": "08 luglio 2024",
+					"fine": "12 luglio 2024"
 				}
 			},
 			{
-				"nome": "Quarta settimana",
-				"valore": "4ª settimana",
+				"nome": "Estate Ragazzi - Terza settimana",
+				"valore": "ER 3ª settimana",
 				"durata": {
-					"inizio": "21 luglio 2023",
-					"fine": "26 luglio 2023"
+					"inizio": "15 luglio 2024",
+					"fine": "19 luglio 2024"
+				}
+			},
+			{
+				"nome": "Estate Ragazzi - Quarta settimana",
+				"valore": "ER 4ª settimana",
+				"durata": {
+					"inizio": "21 luglio 2024",
+					"fine": "26 luglio 2024"
+				}
+			},
+			{
+				"nome": "Estate Ragazzi - Campo elementari",
+				"valore": "ER Campo elementari",
+				"durata": {
+					"inizio": "7 luglio 2024",
+					"fine": "12 luglio 2024"
+				}
+			},
+			{
+				"nome": "Estate Ragazzi - Campo medie",
+				"valore": "ER Campo medie",
+				"durata": {
+					"inizio": "14 luglio 2024",
+					"fine": "19 luglio 2024"
 				}
 			}
 		]
@@ -198,7 +317,7 @@
 		]
 	},
 	{
-		"evento": "Servizio pullmino",
+		"evento": "Servizio pulmino",
 		"info": "Il servizio necessiterà di un contributo specificato in seguito (variabie in base al numero di adesioni).<br/>Domanda a scopo informativo.",
 		"settimane": [
 			{
@@ -254,11 +373,11 @@
 		"costo": 5.00
 	},
 	{
-		"evento" : "Sconto secondo figlio",
-		"costo" : 5.00
+		"evento": "Sconto secondo figlio",
+		"costo": 5.00
 	},
 	{
-		"evento" : "Sconto terzo figlio",
-		"costo" : 10.00
+		"evento": "Sconto terzo figlio",
+		"costo": 10.00
 	}
 ]
